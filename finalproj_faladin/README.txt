@@ -1,7 +1,7 @@
 Faiz Aladin
 November 28th, 2020
 
-COM 110 Final Project Proposal
+Final Project Proposal
 
 Idea: Password Generator and Vault
 
